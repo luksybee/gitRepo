@@ -1,2 +1,3 @@
-# gitRepo
-Use of Git Api with AngularJS
+# GitRepo
+
+Use of GitHub Api with AngularJS
